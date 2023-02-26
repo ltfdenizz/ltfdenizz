@@ -1,5 +1,6 @@
 ### Hi there 👋
     I’m Electrical And Electronics Engineer
+    React Front-End Developer
 
 - 🌱 I’m currently learning React/Front-End Developer
 
