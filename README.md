@@ -1,5 +1,9 @@
 ### Hi there 👋
+    I’m Electrical And Electronics Engineer
 
+- 🌱 I’m currently learning React/Front-End Developer
+
+- 📫 How to reach me: İnstagram/ltfdenizz
 <!--
 **ltfdenizz/ltfdenizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
