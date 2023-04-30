@@ -11,7 +11,7 @@
 📫 How to reach me ltfdeniz1907@gmail.com
 
 # 💫 About Me:
-First of all, thank you for your interest. I'm Lutfi Deniz! I'am Front End Developer , React Developer , Electrical-Electronics Engineer and I use technologies like Html5, Css3, JavaScript(Learning), Bootstrap, Scss,Git, GitHub ,React and Tailwind Css to build websites and applications.My English level is B2 and German level is b1. <br>I wish you a good work!
+First of all, thank you for your interest. I'm Lutfi Deniz! I'am Front End Developer , React Developer , Electrical-Electronics Engineer and I use technologies like Html5, Css3, JavaScript, Bootstrap, Scss,Git, GitHub ,React and Tailwind Css to build websites and applications.My English level is B2 and German level is b1. <br>I wish you a good work!
 
 
 ## 🌐 Socials:
