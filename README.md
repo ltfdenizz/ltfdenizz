@@ -1,6 +1,14 @@
 # 👋 Hi:
     I’m Electrical And Electronics Engineer
     React Front-End Developer
+    
+🌱 I work as a React Front End Developer developer and keep learning new frameworks. And I follow the latest technologies.
+
+👨‍💻 Problem solving, which is the solution point of problems in order to improve myself, excites me. I like to produce analytical solutions.
+
+🧳 I work as a React Front End Developer developer and keep learning new frameworks. And I follow the latest technologies.
+
+📫 How to reach me ltfdeniz1907@gmail.com
 
 # 💫 About Me:
 First of all, thank you for your interest. I'm Lutfi Deniz! I'am Front End Developer , React Developer , Electrical-Electronics Engineer and I use technologies like Html5, Css3, JavaScript(Learning), Bootstrap, Scss,Git, GitHub ,React and Tailwind Css to build websites and applications.My English level is B2 and German level is b1. <br>I wish you a good work!
