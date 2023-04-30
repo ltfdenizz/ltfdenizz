@@ -15,7 +15,7 @@ First of all, thank you for your interest. I'm Lutfi Deniz! I'am Front End Devel
 
 
 ## 🌐 Socials:
- [Contact](mailto:ltfdeniz1907@gmail.com)
+<a href="mailto:ltfdeniz1907@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ltfdenizz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ltfdenizz/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ltfdenizz) 
 
 # 💻 Tech Stack:
